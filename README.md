@@ -1,10 +1,5 @@
 # ARM Linux Platform Character Device Driver with Device Tree (QEMU)
 
-[![Linux Kernel](https://img.shields.io/badge/Kernel-5.4-blue.svg)](https://kernel.org)
-[![Architecture](https://img.shields.io/badge/Architecture-ARMv7--A-orange.svg)](https://www.arm.com)
-[![Emulation](https://img.shields.io/badge/Emulator-QEMU%20vexpress--a9-green.svg)](https://www.qemu.org)
-[![License](https://img.shields.io/badge/License-GPLv2-red.svg)](LICENSE)
-
 An ARM Linux platform character device driver demonstrating **Device Tree (OF) bindings**, dynamic device probing, character device registration, and custom hardware property parsing. 
 
 Configured and tested on a virtual **ARM Cortex-A9 (Versatile Express)** platform using **QEMU**
