@@ -199,6 +199,3 @@ dmesg | tail -n 5
 ```
 
 ---
-
-## Author
-- **Dhamu Pradeep** - [GitHub Profile](https://github.com/DhamuPradeep)
